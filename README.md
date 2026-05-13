@@ -1,5 +1,4 @@
 # DuongThuyTram-24521802-Dự đoán điểm cuối kỳ
-# Ứng dụng dự đoán điểm cuối kỳ bằng Linear Regression
 
 Thực hành **[CS523] Cấu trúc dữ liệu và giải thuật nâng cao**.
 
